@@ -54,9 +54,6 @@ function sendToChatGPT() {
     --- 
     UGEL 02 La Esperanza Takaynamo-Software – Todos los derechos reservados.
     `;
-    
-    console.log(manual);
-    
 
     if (!prompt) {
         alert('Por favor, introduce un texto antes de enviar.');
